@@ -4,7 +4,7 @@
     <img src="https://github.com/Maiz27/portfolio/blob/master/src/assets/imgs/logo.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
-  <h1 align="center">Backend engineer | Java Spring Boot, Go | .NET | Microservice | AWS</h1>
+  <h1 align="center">Backend Engineer | Java Spring Boot, Go | .NET | Microservice | AWS</h1>
   <h3 align="center">
     <br/>
     <a href="#">C#</a>
