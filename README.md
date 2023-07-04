@@ -1,4 +1,4 @@
-# 💫 About Me: Crazy Developer
+# 💫 About Me: SENIOR Developer
 I am a full stack developer with 10 years of experience.
 
 
